@@ -1,0 +1,22 @@
+test_add_check_corrupt_and_repair (test_engine.ParityKeeperTests.test_add_check_corrupt_and_repair) ... ok
+test_changed_not_autoaccepted_and_delete (test_engine.ParityKeeperTests.test_changed_not_autoaccepted_and_delete) ... ok
+test_missing_and_mirror_diff (test_engine.ParityKeeperTests.test_missing_and_mirror_diff) ... ok
+test_missing_par_volume_detection (test_engine.ParityKeeperTests.test_missing_par_volume_detection) ... ok
+test_still_protected_members_are_guarded_against_bitrot (test_engine.ParityKeeperTests.test_still_protected_members_are_guarded_against_bitrot) ... ok
+test_automatic_database_migration_preserves_backup (test_safety_v12.SafetyV12Tests.test_automatic_database_migration_preserves_backup) ... ok
+test_case_different_names_are_distinct (test_safety_v12.SafetyV12Tests.test_case_different_names_are_distinct) ... ok
+test_engine_specific_exit_codes (test_safety_v12.SafetyV12Tests.test_engine_specific_exit_codes) ... ok
+test_missing_compare_has_clear_safety_error (test_safety_v12.SafetyV12Tests.test_missing_compare_has_clear_safety_error) ... ok
+test_orphan_folders_are_inspected_but_not_deleted (test_safety_v12.SafetyV12Tests.test_orphan_folders_are_inspected_but_not_deleted) ... ok
+test_path_escape_symlink_and_metadata_rejected (test_safety_v12.SafetyV12Tests.test_path_escape_symlink_and_metadata_rejected) ... ok
+test_post_creation_rehash_fails_closed_even_if_mtime_same (test_safety_v12.SafetyV12Tests.test_post_creation_rehash_fails_closed_even_if_mtime_same) ... ok
+test_quarantine_does_not_overwrite_old_copies (test_safety_v12.SafetyV12Tests.test_quarantine_does_not_overwrite_old_copies) ... ok
+test_eta_measured_not_invented (test_v11.V11Tests.test_eta_measured_not_invented) ... ok
+test_live_progress_and_real_cli_args (test_v11.V11Tests.test_live_progress_and_real_cli_args) ... ok
+test_percentage_parsing (test_v11.V11Tests.test_percentage_parsing) ... ok
+test_thread_limits (test_v11.V11Tests.test_thread_limits) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 20.574s
+
+OK

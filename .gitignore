@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local app data (never commit user archive inventories)
+.paritykeeper/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*.log
+
+# Windows build outputs
+Windows/build/
+Windows/dist/
+*.spec
+
+# Native Debian build working directories
+Debian/debian/.debhelper/
+Debian/debian/paritykeeper/
